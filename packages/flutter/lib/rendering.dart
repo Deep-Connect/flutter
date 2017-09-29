@@ -46,6 +46,7 @@ export 'src/rendering/node.dart';
 export 'src/rendering/object.dart';
 export 'src/rendering/paragraph.dart';
 export 'src/rendering/performance_overlay.dart';
+export 'src/rendering/platform_surface.dart';
 export 'src/rendering/proxy_box.dart';
 export 'src/rendering/rotated_box.dart';
 export 'src/rendering/semantics.dart';
